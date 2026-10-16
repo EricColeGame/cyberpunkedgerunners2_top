@@ -49,10 +49,10 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   const organization = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: siteConfig.name,
-    url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    "name": siteConfig.name,
+    "url": siteUrl,
+    "logo": `${siteUrl}/android-chrome-512x512.png`,
+    "image": `${siteUrl}/images/hero.webp`,
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
