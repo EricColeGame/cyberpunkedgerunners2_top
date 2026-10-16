@@ -255,14 +255,38 @@ const GROUP_TITLES_JA: Record<string, string> = {
   trailers: "予告編",
 };
 
+// 西班牙文分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Primeros pasos",
+  release: "Estreno",
+  characters: "Personajes",
+  story: "Historia",
+  music: "Música",
+  trailers: "Tráilers",
+};
+
+// 德文分组标题映射
+const GROUP_TITLES_DE: Record<string, string> = {
+  guide: "Erste Schritte",
+  release: "Release",
+  characters: "Charaktere",
+  story: "Story",
+  music: "Musik",
+  trailers: "Trailer",
+};
+
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  es: GROUP_TITLES_ES,
+  de: GROUP_TITLES_DE,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  es: "Resumen",
+  de: "Übersicht",
 };
 
 // 分组排序顺序

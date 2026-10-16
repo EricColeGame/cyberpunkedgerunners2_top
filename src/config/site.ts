@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/user/CyberPunkGame",
     twitter: "https://x.com/cyberpunkgame",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "es", "de"],
   defaultLocale: "en",
 };

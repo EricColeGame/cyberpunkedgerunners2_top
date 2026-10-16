@@ -1,1 +1,490 @@
-{}
+{
+  "site": {
+    "name": "Cyberpunk Edgerunners 2 Wiki",
+    "shortName": "Cyberpunk Edgerunners 2",
+    "tagline": "Personajes, episodios, historia y lore de Night City",
+    "description": "Wiki hecha por fans sobre el anime de 10 episodios de Netflix Cyberpunk: Edgerunners 2: personajes, episodios, historia, fecha de estreno, tráilers y lore de Night City.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por fans, para fans."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "release": "Estreno",
+    "characters": "Personajes",
+    "story": "Historia",
+    "music": "Música",
+    "trailers": "Tráilers"
+  },
+  "home": {
+    "meta": {
+      "title": "Cyberpunk Edgerunners 2 Wiki: personajes, episodios y noticias",
+      "description": "Cyberpunk Edgerunners 2 Wiki con personajes, episodios, historia, fecha de estreno, tráilers, lore de Night City, reparto, noticias y todo lo que los fans necesitan saber."
+    },
+    "hero": {
+      "eyebrow": "Serie de anime cyberpunk oscura",
+      "title": "Cyberpunk Edgerunners 2 Wiki",
+      "description": "Cyberpunk Edgerunners 2 es un anime independiente de 10 episodios ambientado en Night City, que sigue a una nueva tripulación en una historia brutal de venganza, redención, violencia y supervivencia.",
+      "stats": [
+        "10 episodios",
+        "Estreno: 20 de octubre de 2026",
+        "2 tráilers oficiales",
+        "Original de Netflix"
+      ],
+      "primaryCta": "Guía de episodios",
+      "secondaryCta": "Personajes y reparto",
+      "tertiaryCta": "Ver en Netflix",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por Cyberpunk Edgerunners 2",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "¿Es tu primera vez con la serie? Empieza por saber qué es Cyberpunk Edgerunners 2, cómo funciona su historia independiente y lo que conviene saber antes del primer episodio."
+        },
+        {
+          "number": "2",
+          "title": "Fecha de estreno",
+          "description": "Cyberpunk Edgerunners 2 se estrena el 20 de octubre de 2026 en Netflix, con los diez episodios disponibles el mismo día."
+        },
+        {
+          "number": "3",
+          "title": "Personajes y reparto",
+          "description": "Conoce a los cuatro protagonistas de Cyberpunk Edgerunners 2, Weak Kingsley, D, Roman Carax y Talia Yang, además de los actores de voz que les dan vida."
+        },
+        {
+          "number": "4",
+          "title": "Historia y cronología",
+          "description": "Descubre cómo la historia independiente de Cyberpunk Edgerunners 2 en Night City encaja en el universo de Cyberpunk 2077 sin necesidad de ver la temporada 1."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Fecha de estreno",
+        "Personajes y reparto",
+        "Guía de episodios",
+        "Análisis del tráiler"
+      ],
+      "cards": [
+        {
+          "badge": "Empieza aquí",
+          "title": "Guía para principiantes de Cyberpunk Edgerunners 2",
+          "description": "Qué es Cyberpunk Edgerunners 2, cómo funciona su historia independiente y lo que conviene saber antes del primer episodio.",
+          "href": "/guide/cyberpunk-edgerunners-2-what-is-it-about"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Fecha de estreno y calendario",
+          "description": "El estreno en Netflix del 20 de octubre de 2026, el lanzamiento completo de la temporada y los detalles de visionado por región.",
+          "href": "/release/cyberpunk-edgerunners-2-release-schedule"
+        },
+        {
+          "badge": "Popular",
+          "title": "Personajes y actores de voz",
+          "description": "Weak Kingsley, D, Roman Carax y Talia Yang, además de los actores de voz en japonés e inglés.",
+          "href": "/characters/cyberpunk-edgerunners-2-voice-actors"
+        },
+        {
+          "badge": "Popular",
+          "title": "Cuántos episodios tiene",
+          "description": "Por qué Cyberpunk Edgerunners 2 tiene diez episodios y cómo funciona el lanzamiento completo de una sola vez.",
+          "href": "/guide/cyberpunk-edgerunners-2-how-many-episodes"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Análisis del tráiler",
+          "description": "Todos los teasers y tráilers oficiales de Cyberpunk Edgerunners 2 con los detalles que confirma cada clip.",
+          "href": "/trailers/cyberpunk-edgerunners-2-trailer"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Historia y cronología",
+          "description": "Dónde se sitúa la historia independiente de Cyberpunk Edgerunners 2 en la cronología de Cyberpunk 2077.",
+          "href": "/story/cyberpunk-edgerunners-2-timeline"
+        },
+        {
+          "badge": "Popular",
+          "title": "Canciones de apertura y cierre",
+          "description": "The Cure y Petite Meller lideran la banda sonora de Cyberpunk Edgerunners 2, con todas las canciones confirmadas.",
+          "href": "/music/cyberpunk-edgerunners-2-song"
+        },
+        {
+          "badge": "Guía",
+          "title": "Dónde verla",
+          "description": "Detalles del streaming en Netflix, disponibilidad y cómo prepararte para la noche del estreno de Cyberpunk Edgerunners 2.",
+          "href": "/guide/cyberpunk-edgerunners-2-where-to-watch"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Cyberpunk Edgerunners 2?",
+      "paragraphs": [
+        "Cyberpunk Edgerunners 2 es un anime independiente de diez episodios producido por Studio TRIGGER junto a CD PROJEKT RED, ambientado en la misma Night City que Cyberpunk 2077. En lugar de continuar la historia de David Martinez, sigue a cuatro protagonistas nuevos: la leyenda caída Weak Kingsley, la netrunner D, el cinéfilo Roman Carax y la ferozmente independiente Talia Yang, cuyas vidas se entrelazan hasta el extremo mientras persiguen familia, obsesión, legado y venganza.",
+        "Los diez episodios se estrenan en Netflix el 20 de octubre de 2026, así que la temporada completa puede verse de una sola vez. Kai Ikarashi dirige, Ichigo Kanno se encarga del diseño de personajes, Tsuneo Imahori compone la música y Bartosz Sztybor regresa como showrunner y guionista. Esta wiki sigue cada personaje confirmado, detalle de episodio, tráiler y novedad de estreno a medida que aparece material nuevo."
+      ],
+      "stats": [
+        {
+          "label": "Estudio",
+          "value": "Studio TRIGGER"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Netflix"
+        },
+        {
+          "label": "Formato",
+          "value": "Anime de 10 episodios"
+        },
+        {
+          "label": "Estreno",
+          "value": "20 de octubre de 2026"
+        },
+        {
+          "label": "Dirección",
+          "value": "Kai Ikarashi"
+        },
+        {
+          "label": "Música",
+          "value": "Tsuneo Imahori"
+        },
+        {
+          "label": "Clasificación",
+          "value": "TV-MA"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de Cyberpunk Edgerunners 2",
+      "description": "Todos los módulos de Cyberpunk Edgerunners 2 en un solo lugar: fecha de estreno, personajes, historia, tráilers, creadores, episodios y guías para principiantes, siempre con datos confirmados.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Fecha de estreno de Cyberpunk Edgerunners 2",
+          "description": "La fecha de estreno confirmada, la disponibilidad en Netflix, el número de episodios y el estado del lanzamiento de Cyberpunk Edgerunners 2, además de los hitos de producción hasta el estreno del 20 de octubre de 2026.",
+          "href": "/release/cyberpunk-edgerunners-2-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Estreno",
+              "detail": "20 de octubre de 2026: la temporada completa llega a Netflix"
+            },
+            {
+              "label": "Episodios",
+              "detail": "10 episodios independientes estrenados el mismo día"
+            },
+            {
+              "label": "Plataforma",
+              "detail": "Exclusiva de Netflix sin acuerdos de emisión divididos"
+            },
+            {
+              "label": "Ambientación",
+              "detail": "La misma continuidad de Night City que Cyberpunk 2077, con una tripulación nueva"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Personajes de Cyberpunk Edgerunners 2",
+          "description": "Presenta al nuevo reparto de Cyberpunk Edgerunners 2 y explica sus roles, orígenes y conexiones dentro de Night City, incluidos los actores de voz de cada protagonista.",
+          "href": "/characters/cyberpunk-edgerunners-2-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Weak",
+              "detail": "Weak Kingsley, la leyenda caída de los edgerunners que vive sin cromo"
+            },
+            {
+              "label": "D",
+              "detail": "Netrunner de Snake Nation en una misión de venganza que dura toda la temporada"
+            },
+            {
+              "label": "Roman",
+              "detail": "Joven cinéfilo que documenta las historias reales de Night City"
+            },
+            {
+              "label": "Talia",
+              "detail": "Comodín ferozmente independiente criada en las torres corporativas"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Historia de Cyberpunk Edgerunners 2",
+          "description": "Explica la historia independiente de Cyberpunk Edgerunners 2, su ambientación en Night City y sus temas de redención y venganza, separando los datos confirmados del arco de David Martinez.",
+          "href": "/story/cyberpunk-edgerunners-2-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Independiente",
+              "detail": "Una historia nueva que no exige ver la primera temporada"
+            },
+            {
+              "label": "Ambientación",
+              "detail": "Night City regresa en la continuidad de Cyberpunk 2077"
+            },
+            {
+              "label": "Cuatro protagonistas",
+              "detail": "Weak, D, Roman y Talia persiguen familia y venganza"
+            },
+            {
+              "label": "Temas",
+              "detail": "Redención, venganza y vidas entrelazadas hasta el extremo"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tráiler de Cyberpunk Edgerunners 2",
+          "description": "Reúne los teasers y tráilers oficiales de Cyberpunk Edgerunners 2 de Netflix y CD PROJEKT RED, con lo que confirma cada clip sobre la nueva tripulación y la ventana de estreno.",
+          "href": "/trailers/cyberpunk-edgerunners-2-trailer",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Tráiler oficial: presentación de toda la tripulación con la fecha de estreno confirmada"
+            },
+            {
+              "label": "A",
+              "detail": "First Look: un tráiler y los primeros siete minutos proyectados en Anime NYC"
+            },
+            {
+              "label": "B",
+              "detail": "Teaser de fecha de estreno: confirma el 20 de octubre de 2026 en Netflix"
+            },
+            {
+              "label": "C",
+              "detail": "Teaser 2: ambiente de Night City y revelación del logo, sin detalles de la trama"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Creadores de Cyberpunk Edgerunners 2",
+          "description": "Perfila al equipo detrás de Cyberpunk Edgerunners 2, con el director Kai Ikarashi, el diseñador de personajes Ichigo Kanno, el compositor Tsuneo Imahori, el showrunner Bartosz Sztybor y Studio TRIGGER.",
+          "href": "/story/cyberpunk-edgerunners-2-setting",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Dirección",
+              "detail": "Kai Ikarashi, tras la dirección de animación de Little Witch Academia"
+            },
+            {
+              "label": "Diseño de personajes",
+              "detail": "Ichigo Kanno, una identidad visual nueva para el reparto"
+            },
+            {
+              "label": "Música",
+              "detail": "Tsuneo Imahori, el compositor detrás de Trigun"
+            },
+            {
+              "label": "Estudio",
+              "detail": "Studio TRIGGER, de vuelta tras el original de 2022"
+            },
+            {
+              "label": "Guion",
+              "detail": "Bartosz Sztybor regresa como showrunner, guionista y productor"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Episodios de Cyberpunk Edgerunners 2",
+          "description": "Desglosa los diez episodios confirmados de Cyberpunk Edgerunners 2, incluido el lanzamiento completo, la duración de cada episodio y lo que pueden esperar los espectadores de la estructura de la temporada.",
+          "href": "/guide/cyberpunk-edgerunners-2-how-many-episodes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "10",
+              "detail": "Episodios de la temporada independiente, todos estrenados a la vez"
+            },
+            {
+              "label": "~25 min",
+              "detail": "Duración habitual por episodio, unas cuatro horas de historia en total"
+            },
+            {
+              "label": "Lanzamiento completo",
+              "detail": "Netflix estrena todos los episodios a la vez el 20 de octubre de 2026"
+            },
+            {
+              "label": "TV-MA",
+              "detail": "Clasificación para adultos por violencia, lenguaje y temas maduros"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de Cyberpunk Edgerunners 2",
+          "description": "Una guía de Cyberpunk Edgerunners 2 para principiantes que explica qué es la serie, si conecta con el primer anime, su relación con Cyberpunk 2077 y lo que conviene saber antes de verla.",
+          "href": "/guide/cyberpunk-edgerunners-2-what-is-it-about",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Empieza por la premisa independiente, sin necesidad de ver la temporada anterior"
+            },
+            {
+              "label": "2",
+              "detail": "Comprueba la clasificación TV-MA antes de organizar un visionado familiar"
+            },
+            {
+              "label": "3",
+              "detail": "Mira el tráiler y los teasers oficiales para captar el tono"
+            },
+            {
+              "label": "4",
+              "detail": "Conoce a los cuatro protagonistas: Weak, D, Roman Carax y Talia Yang"
+            },
+            {
+              "label": "5",
+              "detail": "Apunta el 20 de octubre de 2026 para el estreno completo en Netflix"
+            },
+            {
+              "label": "6",
+              "detail": "Lee la explicación de la cronología para situarla en el universo de Cyberpunk 2077"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Noticias de Cyberpunk Edgerunners 2",
+          "description": "Reúne los anuncios oficiales, tráilers y novedades de producción de Cyberpunk Edgerunners 2 en un repaso cronológico, desde el primer teaser hasta la fecha de estreno confirmada.",
+          "href": "/release/cyberpunk-edgerunners-2-premiere-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Estreno",
+              "detail": "Fecha de estreno del 20 de octubre de 2026 confirmada con un nuevo teaser"
+            },
+            {
+              "label": "Reparto",
+              "detail": "Weak, D, Roman Carax y Talia Yang presentados como la nueva tripulación"
+            },
+            {
+              "label": "Música",
+              "detail": "The Cure abre la serie y Petite Meller cierra cada episodio"
+            },
+            {
+              "label": "Estudio",
+              "detail": "Studio TRIGGER regresa con el director Kai Ikarashi al frente"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Cyberpunk Edgerunners 2",
+      "description": "Respuestas rápidas sobre Cyberpunk Edgerunners 2, desde su fecha de estreno y reparto hasta su historia y dónde verla.",
+      "items": [
+        {
+          "question": "¿Qué es Cyberpunk Edgerunners 2?",
+          "answer": "Cyberpunk Edgerunners 2 es un anime independiente de diez episodios producido por Studio TRIGGER junto a CD PROJEKT RED, ambientado en la misma Night City que Cyberpunk 2077 con una tripulación de edgerunners totalmente nueva."
+        },
+        {
+          "question": "¿Cuándo se estrena Cyberpunk Edgerunners 2 en Netflix?",
+          "answer": "Cyberpunk Edgerunners 2 se estrena el 20 de octubre de 2026 y los diez episodios llegan a Netflix al mismo tiempo, así que la temporada completa puede verse de una sola vez."
+        },
+        {
+          "question": "¿Hace falta ver el primer Cyberpunk: Edgerunners antes de Cyberpunk Edgerunners 2?",
+          "answer": "No. Cyberpunk Edgerunners 2 se presenta como una historia independiente con un reparto nuevo, así que quienes llegan por primera vez pueden empezar aquí, mientras que los fans que vuelven reconocerán muchos lugares de Night City."
+        },
+        {
+          "question": "¿Quiénes son los personajes principales de Cyberpunk Edgerunners 2?",
+          "answer": "Cyberpunk Edgerunners 2 gira en torno a cuatro protagonistas: la leyenda caída Weak Kingsley, la netrunner de Snake Nation D, el cinéfilo Roman Carax y Talia Yang, criada entre Maelstrom."
+        },
+        {
+          "question": "¿Quién produce Cyberpunk Edgerunners 2?",
+          "answer": "Studio TRIGGER produce Cyberpunk Edgerunners 2 junto a CD PROJEKT RED. Kai Ikarashi dirige, Ichigo Kanno se encarga del diseño de personajes, Tsuneo Imahori compone la música y Bartosz Sztybor regresa como showrunner y guionista."
+        },
+        {
+          "question": "¿Cyberpunk Edgerunners 2 es apta para espectadores jóvenes?",
+          "answer": "Cyberpunk Edgerunners 2 tiene clasificación TV-MA y está dirigida a público adulto por su violencia, su lenguaje y sus temas maduros, así que los padres deberían revisarla antes de un visionado familiar."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para sumergirte en Cyberpunk Edgerunners 2?",
+      "description": "Desde las calles de neón de Night City hasta el último episodio, nuestra wiki de fans te mantiene al día con personajes, análisis de episodios, tráilers y noticias de estreno.",
+      "primary": "Lee la guía de episodios",
+      "secondary": "Ver en Netflix"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Cyberpunk Edgerunners 2",
+    "overviewDescription": "Guías para principiantes de Cyberpunk Edgerunners 2: de qué trata el anime de Netflix, cuántos episodios tiene, dónde verlo, su clasificación por edad y cómo encaja en Cyberpunk 2077."
+  },
+  "release": {
+    "overviewTitle": "Fecha de estreno de Cyberpunk Edgerunners 2",
+    "overviewDescription": "Todos los detalles confirmados del estreno de Cyberpunk Edgerunners 2: fecha de estreno en Netflix, hora de lanzamiento, plan de despliegue y calendario completo de episodios."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Cyberpunk Edgerunners 2",
+    "overviewDescription": "Conoce al reparto de Cyberpunk Edgerunners 2: Weak Kingsley, D, Roman Carax y Talia Yang, además de los nuevos personajes, el protagonista principal y los actores de voz de la tripulación."
+  },
+  "story": {
+    "overviewTitle": "Historia de Cyberpunk Edgerunners 2",
+    "overviewDescription": "Análisis de la historia de Cyberpunk Edgerunners 2: trama, sinopsis, año de ambientación y cronología, además de cómo conecta la nueva temporada con Night City, Lucy y el Blackwall."
+  },
+  "music": {
+    "overviewTitle": "Música de Cyberpunk Edgerunners 2",
+    "overviewDescription": "Cobertura musical de Cyberpunk Edgerunners 2: la canción de apertura, la de cierre, el tema principal y la banda sonora del compositor Tsuneo Imahori."
+  },
+  "trailers": {
+    "overviewTitle": "Tráilers de Cyberpunk Edgerunners 2",
+    "overviewDescription": "Mira y lee el análisis de cada tráiler, teaser y first look de Cyberpunk Edgerunners 2, incluido lo que confirma cada clip sobre la nueva temporada."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "releaseInfo": "Info del estreno",
+    "releaseInfoFormat": "10 episodios",
+    "releaseInfoFormatNote": "Todos los episodios llegan a la vez a Netflix",
+    "releaseInfoDate": "20 oct 2026",
+    "releaseInfoDateNote": "Fecha de estreno en Netflix confirmada",
+    "updated": "Actualizado",
+    "viewReleaseGuide": "Ver la guía del estreno",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Cyberpunk Edgerunners 2 Wiki",
+    "about": "Cyberpunk Edgerunners 2 Wiki es un centro independiente creado por fans que cubre los personajes, episodios, historia, fecha de estreno, tráilers y el lore de Night City del anime de Netflix.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Cyberpunk Edgerunners 2 Wiki. Sin afiliación con CD PROJEKT RED, TRIGGER ni Netflix.",
+    "description": "Anime cyberpunk independiente de 10 episodios en Netflix. Nueva tripulación, Night City, estreno el 20 de octubre de 2026.",
+    "playGame": "Ver en Netflix",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Sitio web oficial",
+    "beginnerGuide": "Guía para principiantes",
+    "releaseGuides": "Guías del estreno",
+    "characterGuides": "Guías de personajes",
+    "storyGuides": "Guías de historia",
+    "musicGuides": "Guías de música",
+    "trailerGuides": "Guías de tráilers",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
