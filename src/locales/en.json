@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "New to the series? Start with what Cyberpunk Edgerunners 2 is, how the standalone story works, and what to know before episode one."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Release Date",
+          "description": "Cyberpunk Edgerunners 2 premieres on October 20, 2026 on Netflix, with all ten episodes arriving on the same day."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Characters & Cast",
+          "description": "Meet the four leads of Cyberpunk Edgerunners 2, Weak Kingsley, D, Roman Carax, and Talia Yang, plus the voice actors behind them."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Cyberpunk Edgerunners 2."
+          "title": "Story & Timeline",
+          "description": "See how the standalone Night City story of Cyberpunk Edgerunners 2 fits the Cyberpunk 2077 universe without season 1 as required viewing."
         }
       ]
     },
@@ -66,265 +66,345 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Release Date",
+        "Characters & Cast",
+        "Episode Guide",
+        "Trailer Breakdown"
       ],
       "cards": [
         {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "badge": "Start Here",
+          "title": "Cyberpunk Edgerunners 2 Beginner Guide",
+          "description": "What Cyberpunk Edgerunners 2 is, how the standalone story works, and what to know before episode one.",
+          "href": "/guide/cyberpunk-edgerunners-2-what-is-it-about"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Release Date & Schedule",
+          "description": "The October 20, 2026 Netflix premiere, the full-season drop, and regional viewing details.",
+          "href": "/release/cyberpunk-edgerunners-2-release-schedule"
+        },
+        {
+          "badge": "Popular",
+          "title": "Characters & Voice Actors",
+          "description": "Weak Kingsley, D, Roman Carax, and Talia Yang, plus the Japanese and English voice actors.",
+          "href": "/characters/cyberpunk-edgerunners-2-voice-actors"
+        },
+        {
+          "badge": "Popular",
+          "title": "Episode Count Explained",
+          "description": "Why Cyberpunk Edgerunners 2 runs for ten episodes and how the binge release pattern works.",
+          "href": "/guide/cyberpunk-edgerunners-2-how-many-episodes"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Trailer Breakdown",
+          "description": "Every official Cyberpunk Edgerunners 2 teaser and trailer with the details each clip confirms.",
+          "href": "/trailers/cyberpunk-edgerunners-2-trailer"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Story & Timeline",
+          "description": "Where the standalone Cyberpunk Edgerunners 2 story sits in the Cyberpunk 2077 timeline.",
+          "href": "/story/cyberpunk-edgerunners-2-timeline"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Opening & Ending Songs",
+          "description": "The Cure and Petite Meller lead the Cyberpunk Edgerunners 2 soundtrack, with every confirmed track.",
+          "href": "/music/cyberpunk-edgerunners-2-song"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Guide",
+          "title": "Where to Watch",
+          "description": "Netflix streaming details, availability, and how to prepare for Cyberpunk Edgerunners 2 premiere night.",
+          "href": "/guide/cyberpunk-edgerunners-2-where-to-watch"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Cyberpunk Edgerunners 2?",
       "paragraphs": [
-        "Cyberpunk Edgerunners 2 is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Cyberpunk Edgerunners 2 is a standalone ten-episode anime produced by Studio TRIGGER with CD PROJEKT RED, set in the same Night City as Cyberpunk 2077. Instead of continuing David Martinez's story, it follows four new leads, the washed-up legend Weak Kingsley, the netrunner D, the cinephile Roman Carax, and the fiercely independent Talia Yang, whose lives become entangled to the extreme as they chase family, obsession, legacy, and revenge.",
+        "All ten episodes premiere on Netflix on October 20, 2026, so the whole season can be watched in one sitting. Kai Ikarashi directs, Ichigo Kanno handles character design, Tsuneo Imahori composes the music, and Bartosz Sztybor returns as showrunner and writer. This wiki tracks every confirmed character, episode detail, trailer, and release update as new material lands."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Studio",
+          "value": "Studio TRIGGER"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Netflix"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Format",
+          "value": "10-episode anime"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Premiere",
+          "value": "October 20, 2026"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Director",
+          "value": "Kai Ikarashi"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Music",
+          "value": "Tsuneo Imahori"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Rating",
+          "value": "TV-MA"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Cyberpunk Edgerunners 2 Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Every Cyberpunk Edgerunners 2 module in one place: release date, characters, story, trailers, creators, episodes, and beginner guides, all built from confirmed details.",
       "modules": [
         {
           "order": 1,
-          "name": "Cyberpunk Edgerunners 2 Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/cyberpunk-edgerunners-2-codes",
-          "displayType": "code-box",
+          "name": "Cyberpunk Edgerunners 2 Release Date",
+          "description": "The confirmed premiere date, Netflix availability, episode count, and release status for Cyberpunk Edgerunners 2, plus the production milestones behind the October 20, 2026 launch.",
+          "href": "/release/cyberpunk-edgerunners-2-release-date",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Premiere",
+              "detail": "October 20, 2026, the full season arrives on Netflix"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Episodes",
+              "detail": "10 standalone episodes released on the same day"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Platform",
+              "detail": "Netflix exclusive with no split streaming deals"
+            },
+            {
+              "label": "Setting",
+              "detail": "Same Night City continuity as Cyberpunk 2077, new crew"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/cyberpunk-edgerunners-2-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Cyberpunk Edgerunners 2 Characters",
+          "description": "Introduces the new cast of Cyberpunk Edgerunners 2 and explains their roles, backgrounds, and connections inside Night City, including the voice actors behind every lead.",
+          "href": "/characters/cyberpunk-edgerunners-2-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Weak",
+              "detail": "Weak Kingsley, washed-up edgerunner legend living without chrome"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "D",
+              "detail": "Snake Nation netrunner on a season-long revenge mission"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Roman",
+              "detail": "Young cinephile documenting the real stories of Night City"
+            },
+            {
+              "label": "Talia",
+              "detail": "Fiercely independent wild card raised in corpo towers"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/cyberpunk-edgerunners-2-tier-list",
-          "displayType": "tier-grid",
+          "name": "Cyberpunk Edgerunners 2 Story",
+          "description": "Explains the standalone Cyberpunk Edgerunners 2 story, its Night City setting, and its themes of redemption and revenge, separating confirmed details from the David Martinez arc.",
+          "href": "/story/cyberpunk-edgerunners-2-story",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Standalone",
+              "detail": "A fresh story that does not require the first season"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Setting",
+              "detail": "Night City returns in the Cyberpunk 2077 continuity"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Four Leads",
+              "detail": "Weak, D, Roman, and Talia chase family and revenge"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Themes",
+              "detail": "Redemption, revenge, and lives entangled to the extreme"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/cyberpunk-edgerunners-2-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Cyberpunk Edgerunners 2 Trailer",
+          "description": "Collects the official Cyberpunk Edgerunners 2 teasers and trailers from Netflix and CD PROJEKT RED, with what each clip confirms about the new crew and the release window.",
+          "href": "/trailers/cyberpunk-edgerunners-2-trailer",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Official Trailer, full crew reveal with the premiere date locked in"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "First Look, a trailer plus the first seven minutes screened at Anime NYC"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Premiere Date Teaser, confirms October 20, 2026 on Netflix"
+            },
+            {
+              "label": "C",
+              "detail": "Teaser 2, Night City atmosphere and logo reveal, no plot specifics"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/cyberpunk-edgerunners-2-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Cyberpunk Edgerunners 2 Creators",
+          "description": "Profiles the team behind Cyberpunk Edgerunners 2, including director Kai Ikarashi, character designer Ichigo Kanno, composer Tsuneo Imahori, showrunner Bartosz Sztybor, and Studio TRIGGER.",
+          "href": "/story/cyberpunk-edgerunners-2-setting",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Director",
+              "detail": "Kai Ikarashi, following animation direction on Little Witch Academia"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Design",
+              "detail": "Ichigo Kanno, a fresh visual identity for the new cast"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Music",
+              "detail": "Tsuneo Imahori, the composer behind Trigun"
+            },
+            {
+              "label": "Studio",
+              "detail": "Studio TRIGGER, returning from the 2022 original"
+            },
+            {
+              "label": "Writer",
+              "detail": "Bartosz Sztybor returns as showrunner, story writer, and producer"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/cyberpunk-edgerunners-2-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Cyberpunk Edgerunners 2 Episodes",
+          "description": "Breaks down the confirmed ten-episode run of Cyberpunk Edgerunners 2, including the binge release pattern, episode runtime, and what viewers should expect from the season structure.",
+          "href": "/guide/cyberpunk-edgerunners-2-how-many-episodes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "10",
+              "detail": "Episodes in the standalone season, all dropping together"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "~25 min",
+              "detail": "Typical episode runtime, roughly four hours of story in total"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Binge drop",
+              "detail": "Netflix releases every episode at once on October 20, 2026"
+            },
+            {
+              "label": "TV-MA",
+              "detail": "Mature rating for violence, language, and adult themes"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Cyberpunk Edgerunners 2 Guide",
+          "description": "A beginner-friendly Cyberpunk Edgerunners 2 guide covering what the series is, whether it connects to the first anime, its relationship to Cyberpunk 2077, and what to know before watching.",
+          "href": "/guide/cyberpunk-edgerunners-2-what-is-it-about",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Start with the standalone premise, no prior season required"
+            },
+            {
+              "label": "2",
+              "detail": "Check the TV-MA rating before planning a family watch"
+            },
+            {
+              "label": "3",
+              "detail": "Watch the official trailer and teasers to get the tone"
+            },
+            {
+              "label": "4",
+              "detail": "Learn the four leads, Weak, D, Roman Carax, and Talia Yang"
+            },
+            {
+              "label": "5",
+              "detail": "Mark October 20, 2026 for the full Netflix drop"
+            },
+            {
+              "label": "6",
+              "detail": "Read the timeline explainer to place it in the Cyberpunk 2077 universe"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Cyberpunk Edgerunners 2 News",
+          "description": "Tracks official Cyberpunk Edgerunners 2 announcements, trailers, and production updates in one chronological overview, from the first teaser to the confirmed premiere date.",
+          "href": "/release/cyberpunk-edgerunners-2-premiere-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Premiere",
+              "detail": "October 20, 2026 premiere date confirmed with a new teaser"
+            },
+            {
+              "label": "Cast",
+              "detail": "Weak, D, Roman Carax, and Talia Yang revealed as the new crew"
+            },
+            {
+              "label": "Music",
+              "detail": "The Cure opens the series, Petite Meller closes each episode"
+            },
+            {
+              "label": "Studio",
+              "detail": "Studio TRIGGER returns with director Kai Ikarashi at the helm"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Cyberpunk Edgerunners 2.",
+      "title": "Cyberpunk Edgerunners 2 FAQ",
+      "description": "Quick answers about Cyberpunk Edgerunners 2, from its release date and cast to its story and where to watch.",
       "items": [
         {
           "question": "What is Cyberpunk Edgerunners 2?",
-          "answer": "Cyberpunk Edgerunners 2 is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Cyberpunk Edgerunners 2 is a standalone ten-episode anime produced by Studio TRIGGER with CD PROJEKT RED, set in the same Night City as Cyberpunk 2077 with an all-new crew of edgerunners."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When does Cyberpunk Edgerunners 2 release on Netflix?",
+          "answer": "Cyberpunk Edgerunners 2 premieres on October 20, 2026, and all ten episodes arrive on Netflix at the same time, so the entire season can be watched in one sitting."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Do I need to watch the first Cyberpunk: Edgerunners before Cyberpunk Edgerunners 2?",
+          "answer": "No. Cyberpunk Edgerunners 2 is billed as a standalone story with a new cast, so newcomers can start here, while returning fans will still recognize plenty of Night City landmarks."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Who are the main characters in Cyberpunk Edgerunners 2?",
+          "answer": "Cyberpunk Edgerunners 2 centers on four leads: the washed-up legend Weak Kingsley, the Snake Nation netrunner D, the cinephile Roman Carax, and the Maelstrom-raised Talia Yang."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Who makes Cyberpunk Edgerunners 2?",
+          "answer": "Studio TRIGGER produces Cyberpunk Edgerunners 2 with CD PROJEKT RED. Kai Ikarashi directs, Ichigo Kanno handles character design, Tsuneo Imahori composes the music, and Bartosz Sztybor returns as showrunner and writer."
+        },
+        {
+          "question": "Is Cyberpunk Edgerunners 2 suitable for younger viewers?",
+          "answer": "Cyberpunk Edgerunners 2 carries a TV-MA rating and is aimed at mature audiences because of its violence, language, and adult themes, so parents should screen it before a family watch."
         }
       ]
     },
