@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "release": "Release",
+    "characters": "Characters",
+    "story": "Story",
+    "music": "Music",
+    "trailers": "Trailers"
   },
   "home": {
     "meta": {
@@ -415,12 +421,39 @@
       "secondary": "Watch on Netflix"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Cyberpunk Edgerunners 2 Guides",
+    "overviewDescription": "Beginner guides for Cyberpunk Edgerunners 2: what the Netflix anime is about, how many episodes it has, where to watch, its age rating and how it fits into Cyberpunk 2077."
+  },
+  "release": {
+    "overviewTitle": "Cyberpunk Edgerunners 2 Release Date",
+    "overviewDescription": "Every confirmed Cyberpunk Edgerunners 2 release detail: Netflix premiere date, release time, the rollout plan and the full episode schedule."
+  },
+  "characters": {
+    "overviewTitle": "Cyberpunk Edgerunners 2 Characters",
+    "overviewDescription": "Meet the Cyberpunk Edgerunners 2 cast: Weak Kingsley, D, Roman Carax and Talia Yang, plus the new characters, main protagonist and voice actors behind the crew."
+  },
+  "story": {
+    "overviewTitle": "Cyberpunk Edgerunners 2 Story",
+    "overviewDescription": "Cyberpunk Edgerunners 2 story breakdowns: plot, synopsis, setting year and timeline, plus how the new season ties into Night City, Lucy and the Blackwall."
+  },
+  "music": {
+    "overviewTitle": "Cyberpunk Edgerunners 2 Music",
+    "overviewDescription": "Cyberpunk Edgerunners 2 music coverage: the opening song, ending song, theme song and the soundtrack and score from composer Tsuneo Imahori."
+  },
+  "trailers": {
+    "overviewTitle": "Cyberpunk Edgerunners 2 Trailers",
+    "overviewDescription": "Watch and read breakdowns of every Cyberpunk Edgerunners 2 trailer, teaser and first look, including what each clip confirms about the new season."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "releaseInfo": "Release Info",
+    "releaseInfoFormat": "10 Episodes",
+    "releaseInfoFormatNote": "All episodes arrive at once on Netflix",
+    "releaseInfoDate": "Oct 20, 2026",
+    "releaseInfoDateNote": "Confirmed Netflix premiere date",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
+    "viewReleaseGuide": "View release guide",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -446,9 +479,11 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official Website",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "releaseGuides": "Release Guides",
+    "characterGuides": "Character Guides",
+    "storyGuides": "Story Guides",
+    "musicGuides": "Music Guides",
+    "trailerGuides": "Trailer Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
