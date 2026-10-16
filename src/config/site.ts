@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Cyberpunk Edgerunners 2 Wiki",
+  shortName: "Cyberpunk Edgerunners 2",
+  logoText: "CE",
+  tagline: "Characters, Episodes, Story & Night City Lore",
+  description: "Fan-made Cyberpunk: Edgerunners 2 wiki covering the 10-episode Netflix anime — characters, episodes, story, release date, trailers and Night City lore.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://cyberpunkedgerunners2.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://cyberpunkedgerunners2.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.netflix.com/title/81744226",
+  heroVideoId: "mV7451mcw-E", // Cyberpunk: Edgerunners 2 official teaser trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/@CDPROJEKTRED",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
