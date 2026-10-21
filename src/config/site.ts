@@ -7,6 +7,7 @@ export interface SiteConfig {
   url: string;
   supportEmail: string;
   gameUrl?: string;
+  website?: string;
   heroVideoId?: string;
   social?: {
     discord?: string;
@@ -27,10 +28,11 @@ export const siteConfig: SiteConfig = {
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://cyberpunkedgerunners2.top",
   supportEmail: "support@cyberpunkedgerunners2.top",
   gameUrl: "https://www.netflix.com/title/81744226",
+  website: "https://www.cyberpunk.net/en/edgerunners2",
   heroVideoId: "mV7451mcw-E", // Cyberpunk: Edgerunners 2 official teaser trailer
   social: {
     discord: "https://discord.gg/cyberpunkgame",
-    youtube: "https://www.youtube.com/user/CyberPunkGame",
+    youtube: "https://www.youtube.com/@CyberpunkGame",
     twitter: "https://x.com/cyberpunkgame",
   },
   locales: ["en", "ja", "es", "de"],
