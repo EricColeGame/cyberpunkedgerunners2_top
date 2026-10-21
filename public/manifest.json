@@ -22,8 +22,8 @@
     { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ],
   "shortcuts": [
-    { "name": "Characters", "url": "/en/races" },
+    { "name": "Characters", "url": "/en/characters" },
     { "name": "Episodes & Guides", "url": "/en/guide" },
-    { "name": "Latest News", "url": "/en/updates" }
+    { "name": "Latest News", "url": "/en/release" }
   ]
 }
