@@ -1,1 +1,489 @@
-{}
+{
+  "site": {
+    "name": "サイバーパンク エッジランナーズ 2 Wiki",
+    "shortName": "サイバーパンク エッジランナーズ 2",
+    "tagline": "キャラクター、エピソード、ストーリー、ナイトシティのロア",
+    "description": "全10話のNetflixアニメ『サイバーパンク エッジランナーズ 2』を扱うファンメイドWiki。キャラクター、エピソード、ストーリー、配信日、予告編、ナイトシティのロアを網羅します。",
+    "legalNotice": "非公式のサイバーパンク エッジランナーズ 2 ファンWikiです。CD PROJEKT RED、TRIGGER、Netflixとは提携していません。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "release": "配信",
+    "characters": "キャラクター",
+    "story": "ストーリー",
+    "music": "音楽",
+    "trailers": "予告編",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え"
+  },
+  "home": {
+    "meta": {
+      "title": "サイバーパンク エッジランナーズ 2 Wiki - キャラクター、エピソード、ニュース",
+      "description": "サイバーパンク エッジランナーズ 2 Wikiでは、キャラクター、エピソード、ストーリー、配信日、予告編、ナイトシティのロア、キャスト、ニュースなど、ファンに必要な情報をまとめています。"
+    },
+    "hero": {
+      "eyebrow": "ダークなサイバーパンクアニメ",
+      "title": "サイバーパンク エッジランナーズ 2 Wiki",
+      "description": "『サイバーパンク エッジランナーズ 2』は、ナイトシティを舞台にした全10話の独立したアニメ。新しいクルーが、復讐、贖罪、暴力、そして生存をめぐる過酷な物語を繰り広げます。",
+      "stats": [
+        "全10話",
+        "配信日：2026年10月20日",
+        "公式予告編2本",
+        "Netflixオリジナル"
+      ],
+      "primaryCta": "エピソードガイド",
+      "secondaryCta": "キャラクター＆キャスト",
+      "tertiaryCta": "Netflixで視聴",
+      "videoLabel": "公式予告編"
+    },
+    "updates": {
+      "title": "最新情報",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "サイバーパンク エッジランナーズ 2 の世界へ",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "シリーズが初めてなら、まずは『サイバーパンク エッジランナーズ 2』とは何か、独立した物語の仕組み、第1話前に知っておきたいことを確認しましょう。"
+        },
+        {
+          "number": "2",
+          "title": "配信日",
+          "description": "『サイバーパンク エッジランナーズ 2』は2026年10月20日にNetflixで初公開。全10話が同日に一挙配信されます。"
+        },
+        {
+          "number": "3",
+          "title": "キャラクター＆キャスト",
+          "description": "ウィーク・キングスリー、D、ローマン・カラックス、タリア・ヤンという4人の主役と、日本語版・英語版の声優を紹介します。"
+        },
+        {
+          "number": "4",
+          "title": "ストーリーとタイムライン",
+          "description": "シーズン1を未視聴でも楽しめる、ナイトシティを舞台にした独立した物語が、『サイバーパンク 2077』の世界観にどう位置づけられるかを解説します。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま話題の記事",
+      "quickLinks": [
+        "配信日",
+        "キャラクター＆キャスト",
+        "エピソードガイド",
+        "予告編解説"
+      ],
+      "cards": [
+        {
+          "badge": "はじめに",
+          "title": "サイバーパンク エッジランナーズ 2 初心者ガイド",
+          "description": "『サイバーパンク エッジランナーズ 2』とは何か、独立した物語の仕組み、第1話前に知っておくべきこと。",
+          "href": "/guide/cyberpunk-edgerunners-2-what-is-it-about"
+        },
+        {
+          "badge": "更新",
+          "title": "配信日とスケジュール",
+          "description": "2026年10月20日のNetflix初公開、全話一挙配信、地域別の視聴情報。",
+          "href": "/release/cyberpunk-edgerunners-2-release-schedule"
+        },
+        {
+          "badge": "人気",
+          "title": "キャラクターと声優",
+          "description": "ウィーク・キングスリー、D、ローマン・カラックス、タリア・ヤンと、日本語版・英語版の声優。",
+          "href": "/characters/cyberpunk-edgerunners-2-voice-actors"
+        },
+        {
+          "badge": "人気",
+          "title": "エピソード数解説",
+          "description": "『サイバーパンク エッジランナーズ 2』が全10話である理由と、一括配信モデルの仕組み。",
+          "href": "/guide/cyberpunk-edgerunners-2-how-many-episodes"
+        },
+        {
+          "badge": "更新",
+          "title": "予告編解説",
+          "description": "公式ティーザーと予告編をすべてまとめ、各映像で確認できる詳細を解説。",
+          "href": "/trailers/cyberpunk-edgerunners-2-trailer"
+        },
+        {
+          "badge": "新着",
+          "title": "ストーリーとタイムライン",
+          "description": "独立した『サイバーパンク エッジランナーズ 2』の物語が、『サイバーパンク 2077』のタイムラインのどこに位置するか。",
+          "href": "/story/cyberpunk-edgerunners-2-timeline"
+        },
+        {
+          "badge": "人気",
+          "title": "オープニング＆エンディング曲",
+          "description": "The CureとPetite Mellerが率いる『サイバーパンク エッジランナーズ 2』のサウンドトラックと、確認済みの全楽曲。",
+          "href": "/music/cyberpunk-edgerunners-2-song"
+        },
+        {
+          "badge": "ガイド",
+          "title": "視聴方法",
+          "description": "Netflixの配信情報、視聴可能地域、『サイバーパンク エッジランナーズ 2』初公開日に備える方法。",
+          "href": "/guide/cyberpunk-edgerunners-2-where-to-watch"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "『サイバーパンク エッジランナーズ 2』とは？",
+      "paragraphs": [
+        "『サイバーパンク エッジランナーズ 2』は、スタジオTRIGGERがCD PROJEKT REDとともに制作する全10話の独立したアニメで、『サイバーパンク 2077』と同じナイトシティを舞台にしています。デヴィッド・マルティネスの物語を続けるのではなく、落ちぶれた伝説のエッジランナー、ウィーク・キングスリー、Snake NationのネットランナーD、映画好きのローマン・カラックス、メイルストロムで鍛えられたタリア・ヤンという4人の新たな主役を描きます。家族、執着、遺産、復讐を追ううちに、彼らの人生は絡み合っていきます。",
+        "全10話は2026年10月20日にNetflixで一挙公開されるため、シーズン全体を一度に楽しめます。監督はKai Ikarashi、キャラクターデザインはIchigo Kanno、音楽はTsuneo Imahori、ショーランナー兼脚本はBartosz Sztyborが務めます。このWikiでは、新情報が入り次第、確認済みのキャラクター、エピソード詳細、予告編、配信情報を更新します。"
+      ],
+      "stats": [
+        {
+          "label": "スタジオ",
+          "value": "スタジオTRIGGER"
+        },
+        {
+          "label": "配信",
+          "value": "Netflix"
+        },
+        {
+          "label": "形式",
+          "value": "全10話のアニメ"
+        },
+        {
+          "label": "初公開",
+          "value": "2026年10月20日"
+        },
+        {
+          "label": "監督",
+          "value": "Kai Ikarashi"
+        },
+        {
+          "label": "音楽",
+          "value": "Tsuneo Imahori"
+        },
+        {
+          "label": "レーティング",
+          "value": "TV-MA"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "サイバーパンク エッジランナーズ 2 Wikiを探索",
+      "description": "配信日、キャラクター、ストーリー、予告編、クリエイター、エピソード、初心者ガイドまで、『サイバーパンク エッジランナーズ 2』の全モジュールを一か所に集めました。すべて確認済みの情報に基づいています。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "サイバーパンク エッジランナーズ 2 配信日",
+          "description": "確定した初公開日、Netflixでの視聴可能地域、エピソード数、配信状況に加え、2026年10月20日の配信に向けた制作マイルストーンをまとめます。",
+          "href": "/release/cyberpunk-edgerunners-2-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "初公開",
+              "detail": "2026年10月20日、Netflixで全話一挙配信"
+            },
+            {
+              "label": "エピソード",
+              "detail": "全10話の独立したエピソードを同日配信"
+            },
+            {
+              "label": "プラットフォーム",
+              "detail": "Netflix独占。分割配信の予定なし"
+            },
+            {
+              "label": "舞台",
+              "detail": "『サイバーパンク 2077』と同じナイトシティの世界観、新しいクルー"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "サイバーパンク エッジランナーズ 2 キャラクター",
+          "description": "『サイバーパンク エッジランナーズ 2』の新キャストを紹介し、各主役の役割、背景、ナイトシティでのつながり、そして声優を解説します。",
+          "href": "/characters/cyberpunk-edgerunners-2-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ウィーク",
+              "detail": "落ちぶれた伝説のエッジランナー、ウィーク・キングスリー。クロームなしで生きる"
+            },
+            {
+              "label": "D",
+              "detail": "Snake Nationのネットランナー。シーズンを通して復讐を追う"
+            },
+            {
+              "label": "ローマン",
+              "detail": "ナイトシティの真実を記録する若き映画好き"
+            },
+            {
+              "label": "タリア",
+              "detail": "企業の高層ビルで育ち、メイルストロムで鍛えられた強靭な独立心の持ち主"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "サイバーパンク エッジランナーズ 2 ストーリー",
+          "description": "『サイバーパンク エッジランナーズ 2』の独立した物語、ナイトシティという舞台、贖罪と復讐のテーマを解説し、確定情報とデヴィッド・マルティネスの物語を区別します。",
+          "href": "/story/cyberpunk-edgerunners-2-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "独立した物語",
+              "detail": "シーズン1を未視聴でも楽しめる新たな物語"
+            },
+            {
+              "label": "舞台",
+              "detail": "『サイバーパンク 2077』の世界観でナイトシティが再び舞台に"
+            },
+            {
+              "label": "4人の主役",
+              "detail": "ウィーク、D、ローマン、タリアが家族と復讐を追う"
+            },
+            {
+              "label": "テーマ",
+              "detail": "贖罪、復讐、そして極限まで絡み合う人生"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "サイバーパンク エッジランナーズ 2 予告編",
+          "description": "NetflixとCD PROJEKT REDが公開した『サイバーパンク エッジランナーズ 2』の公式ティーザーと予告編をまとめ、各映像で確認できる新しいクルーと配信時期の情報を紹介します。",
+          "href": "/trailers/cyberpunk-edgerunners-2-trailer",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "公式予告編。雰囲気重視のナイトシティ映像と2026年秋の配信時期"
+            },
+            {
+              "label": "A",
+              "detail": "ファーストルック。フル予告編とAnime NYCで上映された7分映像"
+            },
+            {
+              "label": "B",
+              "detail": "初公開日ティーザー。Netflixでの2026年10月20日を確定"
+            },
+            {
+              "label": "C",
+              "detail": "ティーザー2。ナイトシティの空気感と動き出す新しいクルー"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "サイバーパンク エッジランナーズ 2 クリエイター",
+          "description": "監督のKai Ikarashi、キャラクターデザインのIchigo Kanno、作曲家のTsuneo Imahori、ショーランナーのBartosz Sztybor、スタジオTRIGGERなど、制作チームを紹介します。",
+          "href": "/characters/cyberpunk-edgerunners-2-voice-actors",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "監督",
+              "detail": "Kai Ikarashi。『リトル・ウィッチ・アカデミア』でアニメーション演出を担当"
+            },
+            {
+              "label": "デザイン",
+              "detail": "Ichigo Kanno。新キャストに新しいビジュアルアイデンティティを与える"
+            },
+            {
+              "label": "音楽",
+              "detail": "Tsuneo Imahori。『トライガン』の作曲家"
+            },
+            {
+              "label": "スタジオ",
+              "detail": "スタジオTRIGGER。2022年のオリジナルから復帰"
+            },
+            {
+              "label": "脚本",
+              "detail": "Bartosz Sztyborがショーランナー、脚本、プロデューサーとして復帰"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "サイバーパンク エッジランナーズ 2 エピソード",
+          "description": "『サイバーパンク エッジランナーズ 2』の全10話構成を解説。一括配信モデル、各話の尺、シーズン構成から視聴者が期待できることをまとめます。",
+          "href": "/guide/cyberpunk-edgerunners-2-how-many-episodes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "10",
+              "detail": "独立したシーズンの全10話を一括配信"
+            },
+            {
+              "label": "約25分",
+              "detail": "1話あたりの標準的な尺。全体で約4時間の物語"
+            },
+            {
+              "label": "一括配信",
+              "detail": "Netflixは2026年10月20日に全話を一挙公開"
+            },
+            {
+              "label": "TV-MA",
+              "detail": "暴力、表現、成人向けテーマを含む成人向け指定"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "サイバーパンク エッジランナーズ 2 ガイド",
+          "description": "シリーズの内容、最初のアニメとのつながり、『サイバーパンク 2077』との関係、視聴前に知っておきたいことをまとめた初心者向けガイドです。",
+          "href": "/guide/cyberpunk-edgerunners-2-what-is-it-about",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "独立した物語から始める。前シーズンの視聴は不要"
+            },
+            {
+              "label": "2",
+              "detail": "家族で視聴する前にTV-MA指定を確認"
+            },
+            {
+              "label": "3",
+              "detail": "公式予告編とティーザーで作品の雰囲気を掴む"
+            },
+            {
+              "label": "4",
+              "detail": "ウィーク、D、ローマン・カラックス、タリア・ヤンという4人の主役を知る"
+            },
+            {
+              "label": "5",
+              "detail": "2026年10月20日のNetflix全話一挙配信に備える"
+            },
+            {
+              "label": "6",
+              "detail": "タイムライン解説を読んで『サイバーパンク 2077』の世界に位置づける"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "サイバーパンク エッジランナーズ 2 ニュース",
+          "description": "最初のティーザーから確定した初公開日まで、『サイバーパンク エッジランナーズ 2』の公式発表、予告編、制作情報を時系列で追います。",
+          "href": "/release/cyberpunk-edgerunners-2-premiere-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "初公開",
+              "detail": "2026年10月20日の初公開日が新しいティーザーで確定"
+            },
+            {
+              "label": "キャスト",
+              "detail": "ウィーク、D、ローマン・カラックス、タリア・ヤンが新しいクルーとして発表"
+            },
+            {
+              "label": "音楽",
+              "detail": "The Cureがオープニングを、Petite Mellerが各話のエンディングを担当"
+            },
+            {
+              "label": "スタジオ",
+              "detail": "スタジオTRIGGERが監督Kai Ikarashiとともに復帰"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "サイバーパンク エッジランナーズ 2 よくある質問",
+      "description": "配信日やキャストから、ストーリー、視聴方法まで、『サイバーパンク エッジランナーズ 2』に関するよくある質問に答えます。",
+      "items": [
+        {
+          "question": "『サイバーパンク エッジランナーズ 2』とは？",
+          "answer": "『サイバーパンク エッジランナーズ 2』は、スタジオTRIGGERがCD PROJEKT REDとともに制作する全10話の独立したアニメです。『サイバーパンク 2077』と同じナイトシティを舞台に、まったく新しいエッジランナーのクルーを描きます。"
+        },
+        {
+          "question": "『サイバーパンク エッジランナーズ 2』はいつNetflixで配信されますか？",
+          "answer": "2026年10月20日に初公開され、全10話が同時にNetflixへ配信されるため、シーズン全体を一度に視聴できます。"
+        },
+        {
+          "question": "『サイバーパンク エッジランナーズ 2』の前に、最初の『サイバーパンク エッジランナーズ』を観る必要はありますか？",
+          "answer": "いいえ。『サイバーパンク エッジランナーズ 2』は新しいキャストによる独立した物語なので、新規視聴者はここから始められます。シーズン1のファンも、ナイトシティの見慣れた風景を多く見つけられるでしょう。"
+        },
+        {
+          "question": "『サイバーパンク エッジランナーズ 2』の主なキャラクターは？",
+          "answer": "落ちぶれた伝説のウィーク・キングスリー、Snake NationのネットランナーD、映画好きのローマン・カラックス、企業の高層ビルで育ちメイルストロムで鍛えられたタリア・ヤンの4人が中心です。"
+        },
+        {
+          "question": "『サイバーパンク エッジランナーズ 2』の制作陣は？",
+          "answer": "スタジオTRIGGERがCD PROJEKT REDとともに制作します。監督はKai Ikarashi、キャラクターデザインはIchigo Kanno、音楽はTsuneo Imahori、ショーランナー兼脚本はBartosz Sztyborです。"
+        },
+        {
+          "question": "『サイバーパンク エッジランナーズ 2』は子ども向けですか？",
+          "answer": "TV-MA指定で、暴力、表現、成人向けテーマを含むため成人向けです。家族で視聴する前に、保護者が内容を確認してください。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "『サイバーパンク エッジランナーズ 2』の世界へ飛び込む準備はできましたか？",
+      "description": "ナイトシティのネオン街から最終話まで、このファンWikiではキャラクター、エピソード解説、予告編、配信ニュースの最新情報をお届けします。",
+      "primary": "エピソードガイドを読む",
+      "secondary": "Netflixで視聴"
+    }
+  },
+  "guide": {
+    "overviewTitle": "サイバーパンク エッジランナーズ 2 ガイド",
+    "overviewDescription": "作品内容や視聴方法から、エピソード数、タイムライン上の位置、年齢指定まで、『サイバーパンク エッジランナーズ 2』に関するよくある質問に答えます。"
+  },
+  "release": {
+    "overviewTitle": "サイバーパンク エッジランナーズ 2 配信日とスケジュール",
+    "overviewDescription": "『サイバーパンク エッジランナーズ 2』の初公開日、配信時間、Netflixのスケジュール、エピソード展開を追跡。2026年10月20日の配信に向けて確認済みの情報をまとめます。"
+  },
+  "characters": {
+    "overviewTitle": "サイバーパンク エッジランナーズ 2 キャラクター＆キャスト",
+    "overviewDescription": "ウィーク・キングスリー、D、ローマン・カラックス、タリア・ヤンを含む『サイバーパンク エッジランナーズ 2』のキャストを、役割、背景、声優とともに紹介します。"
+  },
+  "story": {
+    "overviewTitle": "サイバーパンク エッジランナーズ 2 ストーリーと設定",
+    "overviewDescription": "『サイバーパンク エッジランナーズ 2』の物語、ナイトシティという舞台、タイムライン、テーマ、そして新しいクルーの復讐劇が広大なサイバーパンク・ユニバースとどうつながるかを解説します。"
+  },
+  "music": {
+    "overviewTitle": "サイバーパンク エッジランナーズ 2 サウンドトラック＆楽曲",
+    "overviewDescription": "『サイバーパンク エッジランナーズ 2』のサウンドトラック、オープニング曲、エンディング曲、テーマ曲を、Netflixアニメに収録されたアーティストと楽曲とともに紹介します。"
+  },
+  "trailers": {
+    "overviewTitle": "サイバーパンク エッジランナーズ 2 予告編＆ティーザー",
+    "overviewDescription": "『サイバーパンク エッジランナーズ 2』の予告編、ティーザー、ファーストルック映像を公開順にまとめ、各映像で明らかになる配信情報と新しいクルーの見どころを解説します。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "releaseInfo": "配信情報",
+    "releaseInfoFormat": "全10話",
+    "releaseInfoFormatNote": "全話がNetflixで一挙配信",
+    "releaseInfoDate": "2026年10月20日",
+    "releaseInfoDateNote": "Netflixでの初公開日が確定",
+    "updated": "更新",
+    "viewReleaseGuide": "配信ガイドを見る",
+    "playOnRoblox": "Netflixで視聴",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "利用可能なガイドはまだありません。近日公開予定です。"
+  },
+  "footer": {
+    "aboutTitle": "サイバーパンク エッジランナーズ 2 Wiki",
+    "about": "サイバーパンク エッジランナーズ 2 Wikiは、Netflixアニメのキャラクター、エピソード、ストーリー、配信日、予告編、ナイトシティのロアを扱う独立したファン制作のハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 サイバーパンク エッジランナーズ 2 Wiki（cyberpunkedgerunners2.top）。CD PROJEKT RED、TRIGGER、Netflixとは提携していません。",
+    "description": "Netflixの全10話サイバーパンクアニメ。新しいクルー、ナイトシティ、2026年10月20日初公開。",
+    "playGame": "Netflixで視聴",
+    "officialDiscord": "Cyberpunk公式Discord",
+    "officialYoutube": "Cyberpunk公式YouTube",
+    "vvBuilder": "Edgerunners 2公式サイト",
+    "beginnerGuide": "初心者ガイド",
+    "releaseGuides": "配信ガイド",
+    "characterGuides": "キャラクターガイド",
+    "storyGuides": "ストーリーガイド",
+    "musicGuides": "音楽ガイド",
+    "trailerGuides": "予告編ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
