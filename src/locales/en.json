@@ -6,7 +6,16 @@
     "description": "Fan-made Cyberpunk: Edgerunners 2 wiki covering the 10-episode Netflix anime — characters, episodes, story, release date, trailers and Night City lore.",
     "legalNotice": "Non-official Cyberpunk Edgerunners 2 fan wiki. Not affiliated with CD PROJEKT RED, TRIGGER or Netflix."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "release": "Release",
+    "characters": "Characters",
+    "story": "Story",
+    "music": "Music",
+    "trailers": "Trailers",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Cyberpunk Edgerunners 2 Wiki - Characters, Episodes & News",
@@ -411,12 +420,30 @@
       "secondary": "Watch on Netflix"
     }
   },
-  "guide": {},
-  "release": {},
-  "characters": {},
-  "story": {},
-  "music": {},
-  "trailers": {},
+  "guide": {
+    "overviewTitle": "Cyberpunk Edgerunners 2 Guide",
+    "overviewDescription": "Answers to the most common Cyberpunk Edgerunners 2 questions, from what the series is about and where to watch it to its episode count, timeline placement, and age rating."
+  },
+  "release": {
+    "overviewTitle": "Cyberpunk Edgerunners 2 Release Date & Schedule",
+    "overviewDescription": "Track the Cyberpunk Edgerunners 2 premiere date, release time, Netflix schedule, and episode rollout, including what has been confirmed for the October 20, 2026 launch."
+  },
+  "characters": {
+    "overviewTitle": "Cyberpunk Edgerunners 2 Characters & Cast",
+    "overviewDescription": "Meet the Cyberpunk Edgerunners 2 cast, including Weak Kingsley, D, Roman Carax, and Talia Yang, with their roles, backgrounds, and voice actors."
+  },
+  "story": {
+    "overviewTitle": "Cyberpunk Edgerunners 2 Story & Setting",
+    "overviewDescription": "Explore the Cyberpunk Edgerunners 2 story, its Night City setting, timeline, themes, and how the new crew's revenge arc connects to the wider Cyberpunk universe."
+  },
+  "music": {
+    "overviewTitle": "Cyberpunk Edgerunners 2 Soundtrack & Songs",
+    "overviewDescription": "Listen through the Cyberpunk Edgerunners 2 soundtrack, opening song, ending song, and theme song, with the artists and tracks featured in the Netflix anime."
+  },
+  "trailers": {
+    "overviewTitle": "Cyberpunk Edgerunners 2 Trailers & Teasers",
+    "overviewDescription": "Watch every Cyberpunk Edgerunners 2 trailer, teaser, and first-look clip in order, with release details and the new crew moments each video reveals."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "releaseInfo": "Release Info",
