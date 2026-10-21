@@ -11,11 +11,11 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 
-const LOCALE_LABELS: Record<string, string> = {
+const LOCALE_LABELS = {
   en: "English",
+  ja: "日本語",
   es: "Español",
   de: "Deutsch",
-  ja: "日本語",
 } satisfies Record<Locale, string>;
 
 /**
