@@ -49,7 +49,7 @@
         {
           "number": "3",
           "title": "Characters & Cast",
-          "description": "Meet the four leads of Cyberpunk Edgerunners 2, Weak Kingsley, D, Roman Carax, and Talia Yang, plus the voice actors behind them."
+          "description": "Meet the four leads of Cyberpunk Edgerunners 2, Weak Kingsley, D, Roman Carax, and Talia Yang, plus the Japanese and English voice actors behind them."
         },
         {
           "number": "4",
@@ -121,7 +121,7 @@
     "aboutGame": {
       "title": "What is Cyberpunk Edgerunners 2?",
       "paragraphs": [
-        "Cyberpunk Edgerunners 2 is a standalone ten-episode anime produced by Studio TRIGGER with CD PROJEKT RED, set in the same Night City as Cyberpunk 2077. Instead of continuing David Martinez's story, it follows four new leads, the washed-up legend Weak Kingsley, the netrunner D, the cinephile Roman Carax, and the fiercely independent Talia Yang, whose lives become entangled to the extreme as they chase family, obsession, legacy, and revenge.",
+        "Cyberpunk Edgerunners 2 is a standalone ten-episode anime produced by Studio TRIGGER with CD PROJEKT RED, set in the same Night City as Cyberpunk 2077. Instead of continuing David Martinez's story, it follows four new leads: the washed-up legend Weak Kingsley, the Snake Nation netrunner D, the cinephile Roman Carax, and the Maelstrom-hardened Talia Yang. Their lives become entangled as they chase family, obsession, legacy, and revenge.",
         "All ten episodes premiere on Netflix on October 20, 2026, so the whole season can be watched in one sitting. Kai Ikarashi directs, Ichigo Kanno handles character design, Tsuneo Imahori composes the music, and Bartosz Sztybor returns as showrunner and writer. This wiki tracks every confirmed character, episode detail, trailer, and release update as new material lands."
       ],
       "stats": [
@@ -206,7 +206,7 @@
             },
             {
               "label": "Talia",
-              "detail": "Fiercely independent wild card raised in corpo towers"
+              "detail": "Fiercely independent, raised in corpo towers and hardened by Maelstrom"
             }
           ]
         },
@@ -244,19 +244,19 @@
           "highlights": [
             {
               "label": "S",
-              "detail": "Official Trailer, full crew reveal with the premiere date locked in"
+              "detail": "Official Trailer, mood-driven Night City footage and the Fall 2026 window"
             },
             {
               "label": "A",
-              "detail": "First Look, a trailer plus the first seven minutes screened at Anime NYC"
+              "detail": "First Look, a full trailer plus seven minutes screened at Anime NYC"
             },
             {
               "label": "B",
-              "detail": "Premiere Date Teaser, confirms October 20, 2026 on Netflix"
+              "detail": "Premiere Date Teaser, locks October 20, 2026 on Netflix"
             },
             {
               "label": "C",
-              "detail": "Teaser 2, Night City atmosphere and logo reveal, no plot specifics"
+              "detail": "Teaser 2, Night City atmosphere and the new crew in motion"
             }
           ]
         },
@@ -264,7 +264,7 @@
           "order": 5,
           "name": "Cyberpunk Edgerunners 2 Creators",
           "description": "Profiles the team behind Cyberpunk Edgerunners 2, including director Kai Ikarashi, character designer Ichigo Kanno, composer Tsuneo Imahori, showrunner Bartosz Sztybor, and Studio TRIGGER.",
-          "href": "/story/cyberpunk-edgerunners-2-setting",
+          "href": "/characters/cyberpunk-edgerunners-2-voice-actors",
           "displayType": "code-cards",
           "highlights": [
             {
@@ -392,7 +392,7 @@
         },
         {
           "question": "Who are the main characters in Cyberpunk Edgerunners 2?",
-          "answer": "Cyberpunk Edgerunners 2 centers on four leads: the washed-up legend Weak Kingsley, the Snake Nation netrunner D, the cinephile Roman Carax, and the Maelstrom-raised Talia Yang."
+          "answer": "Cyberpunk Edgerunners 2 centers on four leads: the washed-up legend Weak Kingsley, the Snake Nation netrunner D, the cinephile Roman Carax, and Talia Yang, who was raised in corporate towers and hardened inside Maelstrom."
         },
         {
           "question": "Who makes Cyberpunk Edgerunners 2?",
